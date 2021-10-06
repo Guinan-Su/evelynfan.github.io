@@ -8,15 +8,31 @@ nav: true
 <h3>🎓 Education</h3>
 <hr/>
 <ul>
-<li><b>Ph.D. Candidate in Electronic and Computer Engineering</b> at The Hong Kong University of Science and Technology (HKUST) supervised by Prof. Pascale Fung.</li>
-<li><b>B.E. in Electronic Engineering</b> at Electronic Engineering at University of Electronic Science and Technology of China.</li>
+<li><b>The Hong Kong University of Science and Technology (HKUST)</b> 
+    <ul>
+    <li>Ph.D. in Electronic and Computer Engineering (2017 - 2021)</li>
+    <li>Thesis title: Building Versatile Conversational Agents with Unified Generative Networks</li>
+    <li>Thesis Committee: Pascale Fung, Bertram Shi, Qifeng Chen, Yanqiu Song, Chen Yun-Nung</li>
+    </ul>
+</li>
+<li><b>University of Electronic Science and Technology of China (UESTC)</b> 
+    <ul>
+    <li>B.E. in Electronic Engineering (2013 - 2017)</li>
+    <li>GPA: 3.90/4.00 (Top 2%)</li>
+    </ul>
+</li>
 </ul>
 
 <br/>
 <h3>🧑‍💻 Working Experience</h3>
 <hr/>
 <ul>
-<li><b>Research Intern</b> at FacebookAI Assistant team. Worked on Task-Oriented Dialogue Systems.</li>
+<li><b>Facebook, Conversational AI</b> 
+    <ul>
+    <li>Research Intern (2020)</li>
+    <li>Designed domain transferable dialogue state tracking models (e.g., <a href="https://aclanthology.org/2021.naacl-main.448.pdf">T5DST</a>, <a href="https://github.com/facebookresearch/Zero-Shot-DST">TransferQA</a>) for task-oriented dialogues.</li>
+    </ul>
+</li>
 </ul>
 
 <br/>
@@ -30,7 +46,11 @@ nav: true
     <li><b>Workshops:</b> MetaNLP, SustaiNLP, EANCS, NLP4ConvAI</li>
     </ul>
 </li>
-<li><b>Talk</b> <a href="https://nips.cc/Conferences/2020/Schedule?showEvent=16657">Deeper Conversational AI</a> tutorial at NeurIPS 2020</li>
+<li><b>Talk</b> 
+    <ul>
+    <li><a href="https://nips.cc/Conferences/2020/Schedule?showEvent=16657">Deeper Conversational AI</a> tutorial at NeurIPS 2020 </li>
+    </ul>
+</li>
 </ul>
 
 <br/>
