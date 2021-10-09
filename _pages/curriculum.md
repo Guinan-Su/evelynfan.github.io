@@ -1,62 +1,54 @@
 ---
 layout: page
 permalink: /curriculum/
-title: Experience
+title: Curriculum
 description: 
 nav: true
 ---
-<h3>🎓 Education</h3>
+<h3> Education</h3>
 <hr/>
 <ul>
-<li><b>The Hong Kong University of Science and Technology (HKUST)</b> 
-    <ul>
-    <li>Ph.D. in Electronic and Computer Engineering (2017 - 2021)</li>
-    <li>Thesis title: Building Versatile Conversational Agents with Unified Generative Networks</li>
-    <li>Thesis Committee: Pascale Fung, Bertram Shi, Qifeng Chen, Yanqiu Song, Chen Yun-Nung</li>
-    </ul>
-</li>
-<li><b>University of Electronic Science and Technology of China (UESTC)</b> 
-    <ul>
-    <li>B.E. in Electronic Engineering (2013 - 2017)</li>
-    <li>GPA: 3.90/4.00 (Top 2%)</li>
-    </ul>
-</li>
+<li><b>2018-</b>  Ph.D. Candidate in Computer Science at The University of Hong Kong (HKU)</li>
+<li><b>2013-2017</b> B.E. in Telecommunication Engineering at Beijing University of Posts and Telecommunications</li>
+</ul>
+
+<!-- 
+<br/>
+<h3>▪️ Working Experience</h3>
+<hr/>
+<ul>
+<li><b>Research Intern</b> at FacebookAI Assistant team. Worked on Task-Oriented Dialogue Systems.</li>
+</ul>
+▪️
+-->
+
+<h3> Awards</h3>
+<hr/>
+<ul>
+<li><b>5th prize</b> <a href="https://image-net.org/challenges/LSVRC/2017/">ImageNet@CVPR 2017</a> for Object Detection Task.</li> 
+<li><b>2nd prize</b> <a href="https://www.votchallenge.net/index.html">VOT@ICCV 2017</a> for Visual Object Tracking Challenge.</li>
+<li><b>2nd prize</b> <a href="https://sites.google.com/view/emotiw2018">EmotiW@ICMI 2018</a> for Emotion Recognition in the Wild Challenge.</li>
 </ul>
 
 <br/>
-<h3>🧑‍💻 Working Experience</h3>
-<hr/>
-<ul>
-<li><b>Facebook, Conversational AI</b> 
-    <ul>
-    <li>Research Intern (2020)</li>
-    <li>Designed domain transferable dialogue state tracking models (e.g., <a href="https://aclanthology.org/2021.naacl-main.448.pdf">T5DST</a>, <a href="https://github.com/facebookresearch/Zero-Shot-DST">TransferQA</a>) for task-oriented dialogues.</li>
-    </ul>
-</li>
-</ul>
-
-<br/>
-<h3>🗃️ Professional Activity</h3>
+<h3> Professional Activity</h3>
 <hr/>
 <ul>
 <li><b>Reviewer and Program Committee</b>
     <ul>
-    <li><b>Conferences:</b> NeurIPS, ICLR, ICML, AAAI, ARR, ACL, EMNLP, NAACL, NLPCC</li>
-    <li><b>Journals:</b> Artificial Intelligence, Transactions on Audio Speech and Language Processing, Neural Processing Letters</li>
-    <li><b>Workshops:</b> MetaNLP, SustaiNLP, EANCS, NLP4ConvAI</li>
-    </ul>
-</li>
-<li><b>Talk</b> 
-    <ul>
-    <li><a href="https://nips.cc/Conferences/2020/Schedule?showEvent=16657">Deeper Conversational AI</a> tutorial at NeurIPS 2020 </li>
+    <li><b>Conferences</b> NeurIPS 2022, CVPR 2022, AAAI 2021, AAAI 2020</li>
+    <li><b>Journals</b> International Journal of Computer Vision (IJCV), IEEE Transactions on Affective Computing, Neurocomputing, IEEE Signal Processing Letters, EURASIP Journal on Image and Video Processing</li>
     </ul>
 </li>
 </ul>
-
 <br/>
-<h3>🏆 Awards</h3>
+
+<h3> Teaching</h3>
 <hr/>
 <ul>
-<li><b>Best Paper Awards</b> <a href="http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Main.html">ConvAI@NeurIPS 2019</a> for Attention Over Paramters for Dialogue Systems</li>
-<li><b>Best Paper Awards </b> RepL4NLP@ACL 2019 for Learning Multilingual Meta-Embeddings for Code-Switching Named Entity Recognition.</li>
+<li><b>2021-2022 1st semester</b> Teaching Assistant, COMP3271 Computer Graphics</li> 
+<li><b>2019-2020 1st semester</b> Teaching Assistant, ELEC2441 Computer organization and microprocessors</li>
+<li><b>2018-2019 1st semester</b> Teaching Assistant, ELEC2441 Computer organization and microprocessors</li>
 </ul>
+
+
