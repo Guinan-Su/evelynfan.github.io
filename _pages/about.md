@@ -18,11 +18,11 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Ph.D. candidate at the Department of Computer Science, The University of Hong Kong (HKU), supervised by [Prof. Taku Komura](https://www.cs.hku.hk/index.php/people/academic-staff/taku), [Prof. Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) and [Dr. Ping Luo](http://luoping.me/). Previously, I received my B.E. degree in Telecommunication Engineering from Beijing University of Posts and Telecommunications (BUPT) in 2017. I have served as the Program Committee and Reviewer for a variety of conferences such as NeurIPS, CVPR and AAAI, and journals such as International Journal of Computer Vision (IJCV), IEEE Transactions on Affective Computing, IEEE Signal Processing Letters and Neurocomputing.
 
-My current research interests are centered around Computer Graphics and Vision, including:
+My current research interests include:
 
+- Computer Graphics and Vision
 - Speech-Driven 3D Facial Animation
-- Facial Expression Recognition/Synthesis
-- Facial Action Unit Recognition
+- Facial Expression/Action Unit Recognition
 - Affective Computing
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
