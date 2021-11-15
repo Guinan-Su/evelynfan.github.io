@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /curriculum/
-title: Curriculum
+permalink: /experience/
+title: Experience
 description: 
 nav: true
 ---
@@ -46,7 +46,7 @@ nav: true
 <h3> Teaching</h3>
 <hr/>
 <ul>
-<li><b>2021-2022 1st semester</b> Teaching Assistant, COMP3271 Computer Graphics</li> 
+<li><b>2021-2022 1st semester</b> Tutor, COMP3271 Computer Graphics</li> 
 <li><b>2019-2020 1st semester</b> Teaching Assistant, ELEC2441 Computer organization and microprocessors</li>
 <li><b>2018-2019 1st semester</b> Teaching Assistant, ELEC2441 Computer organization and microprocessors</li>
 </ul>
