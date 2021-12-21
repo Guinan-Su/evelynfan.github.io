@@ -37,7 +37,7 @@ nav: true
 <li><b>Reviewer and Program Committee</b>
     <ul>
     <li><b>Conferences</b> CVPR 2022, NeurIPS 2021, AAAI 2021, AAAI 2020</li>
-    <li><b>Journals</b> International Journal of Computer Vision (IJCV), IEEE Transactions on Affective Computing, Neurocomputing, IEEE Signal Processing Letters, EURASIP Journal on Image and Video Processing</li>
+    <li><b>Journals</b> International Journal of Computer Vision (IJCV), IEEE Transactions on Affective Computing, Neurocomputing, IEEE Signal Processing Letters, Expert Systems With Applications, EURASIP Journal on Image and Video Processing</li>
     </ul>
 </li>
 </ul>
