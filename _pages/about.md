@@ -16,7 +16,7 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate at the Department of Computer Science, The University of Hong Kong (HKU), supervised by [Prof. Taku Komura](https://www.cs.hku.hk/index.php/people/academic-staff/taku), [Prof. Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) and [Prof. Ping Luo](http://luoping.me/). Previously, I received my B.E. degree in Telecommunication Engineering from Beijing University of Posts and Telecommunications (BUPT) in 2017. I have served as the Program Committee and Reviewer for a variety of conferences such as NeurIPS, CVPR and AAAI, and journals such as International Journal of Computer Vision (IJCV), IEEE Transactions on Affective Computing, IEEE Signal Processing Letters and Neurocomputing.
+I am a fourth-year Ph.D. student at the Department of Computer Science, The University of Hong Kong (HKU), supervised by [Prof. Taku Komura](https://www.cs.hku.hk/index.php/people/academic-staff/taku), [Prof. Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) and [Prof. Ping Luo](http://luoping.me/). Previously, I received my B.E. degree in Telecommunication Engineering from Beijing University of Posts and Telecommunications (BUPT) in 2017. I have served as the Program Committee and Reviewer for a variety of conferences such as NeurIPS, CVPR and AAAI, and journals such as International Journal of Computer Vision (IJCV), IEEE Transactions on Affective Computing, IEEE Signal Processing Letters and Neurocomputing.
 
 My current research interests include:
 
