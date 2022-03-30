@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /experience/
-title: Experience
+permalink: /more/
+title: More
 description: 
 nav: true
 ---
