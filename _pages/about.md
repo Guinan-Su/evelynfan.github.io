@@ -8,8 +8,8 @@ profile:
   align: right
   image: profile.jpeg
   address: >
-   <p>Chow Yei Ching Building,</p>
-   <p>Pokfulam Road, Hong Kong</p>
+   <p>665 Clyde Ave,</p>
+   <p>Mountain View, CA</p>
 
 # news: true  # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
