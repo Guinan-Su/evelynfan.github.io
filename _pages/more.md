@@ -8,7 +8,7 @@ nav: true
 <h3> Education</h3>
 <hr/>
 <ul>
-<li><b>2018-</b>  Ph.D. Candidate in Computer Science at The University of Hong Kong (HKU)</li>
+<li><b>2018-2022</b>  Ph.D. Candidate in Computer Science at The University of Hong Kong (HKU)</li>
 <li><b>2013-2017</b> B.E. in Telecommunication Engineering at Beijing University of Posts and Telecommunications</li>
 </ul>
 
