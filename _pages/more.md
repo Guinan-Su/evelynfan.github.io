@@ -30,8 +30,6 @@ nav: true
 <li><b>2nd prize</b> <a href="https://sites.google.com/view/emotiw2018">EmotiW@ICMI 2018</a> for Emotion Recognition in the Wild Challenge.</li>
 </ul>
 
- <li>Designed domain transferable dialogue state tracking models (e.g., <a href="https://aclanthology.org/2021.naacl-main.448.pdf">T5DST</a>, <a href="https://github.com/facebookresearch/Zero-Shot-DST">TransferQA</a>) for task-oriented dialogues.</li>
-
 <!-- <br/>
 <h3> Professional Activity</h3>
 <hr/>
