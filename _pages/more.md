@@ -25,9 +25,11 @@ nav: true
 <h3> Awards</h3>
 <hr/>
 <ul>
-<li><b>5th prize</b> <a href="https://image-net.org/challenges/LSVRC/2017/">ImageNet@CVPR 2017</a> for Object Detection Task.</li> 
-<li><b>2nd prize</b> <a href="https://www.votchallenge.net/index.html">VOT@ICCV 2017</a> for Visual Object Tracking Challenge.</li>
-<li><b>2nd prize</b> <a href="https://sites.google.com/view/emotiw2018">EmotiW@ICMI 2018</a> for Emotion Recognition in the Wild Challenge.</li>
+<li>Tencent TEG (Technology Engineering Group) Technology Breakthrough Award (2023)</li> 
+<li>Tencent AMS (Advertising and Marketing Services) Department Business Service Award (2022)</li>
+<li>Tencent CDC (Customer Research \& User Experience Design Center) Technology Contribution Award (Gold Award) (2022)</li>
+<li><b>1nd prize</b> Award on National Post-Graduate Mathematical Contest in Modeling (1%) (2020)</li>
+<li>Reward of Excellent from the Star of Tomorrow Internship program in Microsoft Research Asia (5%) (2019)</li>
 </ul>
 
 <!-- <br/>
