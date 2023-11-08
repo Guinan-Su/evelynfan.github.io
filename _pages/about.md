@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: profile.jpeg
+  image: profile.jpg
   address: >
    <p>665 Clyde Ave,</p>
    <p>Mountain View, CA</p>
@@ -16,14 +16,17 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Research Scientist at Samsung Research America (SRA). I received my Ph.D. degree in Computer Science at the University of Hong Kong (HKU) in 2022, under the supervision of [Prof. Taku Komura](https://www.cs.hku.hk/index.php/people/academic-staff/taku), [Prof. Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) and [Prof. Ping Luo](http://luoping.me/). Before that, I obtained my B.E. degree in Telecommunication Engineering from Beijing University of Posts and Telecommunications (BUPT) in 2017. I have served as the Program Committee and Reviewer for a variety of conferences such as NeurIPS, CVPR, ECCV, SIGGRAPH and AAAI, and journals such as International Journal of Computer Vision (IJCV), Artificial Intelligence (AI), IEEE Transactions on Affective Computing, IEEE Signal Processing Letters and Neurocomputing.
+I am currently an Applied researcher at Tencent. Before that, I was a software engineer in Microsoft Azure ML Team. I received my Master degree in Computer Science at University of Science and Technology of China (USTC) in 2020.
+
+<!-- under the supervision of [Prof. Taku Komura](https://www.cs.hku.hk/index.php/people/academic-staff/taku), [Prof. Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) and [Prof. Ping Luo](http://luoping.me/). Before that, I obtained my B.E. degree in Telecommunication Engineering from Beijing University of Posts and Telecommunications (BUPT) in 2017. I have served as the Program Committee and Reviewer for a variety of conferences such as NeurIPS, CVPR, ECCV, SIGGRAPH and AAAI, and journals such as International Journal of Computer Vision (IJCV), Artificial Intelligence (AI), IEEE Transactions on Affective Computing, IEEE Signal Processing Letters and Neurocomputing.-->
 
 My current research interests include:
 
-- Computer Graphics and Vision
-- Speech-Driven 3D Facial Animation
-- Facial Expression/Action Unit Recognition
-- Affective Computing, Multimodal Learning
+- Nature Laguage Processing
+- Multimodal Learning
+- AutoML
+
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
