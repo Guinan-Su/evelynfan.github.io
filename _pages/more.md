@@ -8,7 +8,7 @@ nav: true
 <h3> Education</h3>
 <hr/>
 <ul>
-<li><b>2017-2020</b>  M.S. in Computer Science at The University of Science and Technology of China (USTC)</li>
+<li><b>2017-2020</b> M.S. in Computer Science at The University of Science and Technology of China (USTC)</li>
 <li><b>2013-2017</b> B.E. in computer science at Harbin Engineering University</li>
 </ul>
 
@@ -17,7 +17,7 @@ nav: true
 <h3>▪️ Working Experience</h3>
 <hr/>
 <ul>
-<li><b>Applied researcher</b> at Tencent DataPlatform team. Worked on <a href="https://hunyuan.woa.com/">HunYuan Aide</a> (ChatGPT-like product), Creative Virtual Scenes (Virtual Humans and 3D Assets) for Advertising <a href="https://hunyuan.woa.com/"></a> .</li>
+<li><b>Applied researcher</b> at Tencent DataPlatform team. Worked on <a href="https://hunyuan.woa.com/">HunYuan Aide</a> (ChatGPT-like product) and Creative Virtual Scenes (Virtual Humans and 3D Assets) for Advertising <a href="https://hunyuan.woa.com/"></a> </li>
 <li><b>software engineer</b> at Microsoft Azure ML team. Worked on Azure Machine Learning Studio (GUI-based integrated development environment for constructing and operationalizing Machine Learning workflow on Azure).</li>
 </ul>
 
@@ -31,6 +31,23 @@ nav: true
 <li><b>1nd prize</b> Award on National Post-Graduate Mathematical Contest in Modeling (1%) (2020)</li>
 <li>Reward of Excellent from the Star of Tomorrow Internship program in Microsoft Research Asia (5%) (2019)</li>
 </ul>
+
+
+<h3>Meet Feifei ~ The Cutest cat in the world</h3>
+<hr/>
+<ul>
+  <li>
+    <img src="WechatIMG187.jpg" alt="Description of the image" width="100" height="100" />
+  </li>
+  <li>
+    <img src="WechatIMG184.jpg" alt="Description of the image" width="100" height="100" />
+  </li>
+    <li>
+    <img src="WechatIMG188.jpg" alt="Description of the image" width="100" height="100" />
+  </li>
+</ul>
+
+
 
 <!-- <br/>
 <h3> Professional Activity</h3>
