@@ -34,20 +34,30 @@ nav: true
 
 
 <h3>Meet Feifei ~ The Cutest cat in the world</h3>
-<hr/>
+<!-- <hr/>
 <ul>
   <li>
-    <img src="WechatIMG187.jpg" alt="Description of the image" width="100" height="100" />
+    <img src="../assets/img/WechatIMG187.jpg" alt="changed" width="300" height="450" />
   </li>
   <li>
-    <img src="WechatIMG184.jpg" alt="Description of the image" width="100" height="100" />
+    <img src="../assets/img/WechatIMG184.jpg" alt="Description of the image" width="300" height="300" />
   </li>
     <li>
-    <img src="WechatIMG188.jpg" alt="Description of the image" width="100" height="100" />
+    <img src="../assets/img/WechatIMG188.jpg" alt="Description of the image" width="300" height="300" />
   </li>
-</ul>
+</ul> -->
 
-
+<tbody>
+<tr>
+<td width="25%"><img src="../assets/img/WechatIMG187.jpg" alt="changed" width="200" height="300" /></td>
+</tr>
+<tr>
+<td width="25%"><img src="../assets/img/WechatIMG184.jpg" alt="changed" width="200" height="300" /></td>
+</tr>
+<tr>
+<td width="25%"><img src="../assets/img/WechatIMG188.jpg" alt="changed" width="200" height="300" /></td>
+</tr>
+</tbody>
 
 <!-- <br/>
 <h3> Professional Activity</h3>
